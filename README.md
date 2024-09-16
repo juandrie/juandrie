@@ -11,18 +11,12 @@ In the media industry, I developed strong communication skills, information mana
 I learned to work in a peer-to-peer learning environment, where I not only gained knowledge from others but also developed the ability to independently find solutions. This approach taught me to be resourceful, solve problems on my own, and collaborate effectively. I worked on solo projects as well as group projects, further refining my teamwork skills and enhancing my ability to communicate and collaborate within a team.
 
 ## Projects and Skills
-- 🔧 **Technical Skills**: C, C++, Docker, Python, JavaScript, Ruby, SQL.
-- 🚀 **Current Focus**: I am actively seeking new professional opportunities where I can apply my technical expertise and continue growing in this exciting field.
-
-## Projects and Skills
 - ### 🔧 **Technical Skills**:
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,docker,git,javascript,ruby,python, mysql" />
   </a>
 </p>
-
-
 
 - ### 🚀 **Current Focus**:
 I am actively seeking new professional opportunities where I can apply my technical expertise and continue growing in this exciting field.
