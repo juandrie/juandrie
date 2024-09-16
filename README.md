@@ -11,7 +11,7 @@ In the media industry, I developed strong communication skills, information mana
 - ### 🔧 **Technical Skills**:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,docker,git,javascript,ruby,python" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,docker,git,javascript,ruby,python, mysql" />
   </a>
 </p>
 
