@@ -11,5 +11,7 @@ After 8 years of experience as a TV journalist, I decided to transition into the
 - 🚀 **Current Focus**: I am actively seeking new professional opportunities where I can apply my technical expertise and continue growing in this exciting field.
 
 ## Where to Find Me
-- 💼 https://www.linkedin.com/in/juliette-andrieux-8ba98782?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
+- 💼 ## Where to Find Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/juliette-andrieux-8ba98782/)
+
 
