@@ -16,6 +16,12 @@ In the media industry, I developed strong communication skills, information mana
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="40" height="40"/>
 ![image](https://github.com/user-attachments/assets/2b8c5405-0155-4539-a230-68e22ccc3037)
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL" width="40" height="40"/>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
+c
+
+
+
 - ### 🚀 **Current Focus**:
 I am actively seeking new professional opportunities where I can apply my technical expertise and continue growing in this exciting field.
 
