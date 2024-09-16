@@ -14,7 +14,7 @@ I learned to work in a peer-to-peer learning environment, where I not only gaine
 - ### 🔧 **Technical Skills**:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,docker,html,javascript,ruby,python, mysql" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,docker,html,javascript,ruby,python,mysql" />
   </a>
 </p>
 
