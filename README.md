@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ## About Me
-After 8 years of experience as a TV journalist, I decided to transition into the IT field about a year and a half ago. This career change has allowed me to combine my passion for analysis and technology, while solving real-world problems through development and project management.
+After 8 years of experience as a TV journalist, I decided to transition into the IT field in 2023. This career change has allowed me to combine my passion for analysis and technology, while solving real-world problems through development and project management.
 
 ## My Journey
 - ### 🎥 **Journalism**:
