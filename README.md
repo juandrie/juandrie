@@ -9,16 +9,11 @@ In the media industry, I developed strong communication skills, information mana
 
 ## Projects and Skills
 - ### 🔧 **Technical Skills**:
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C" width="40" height="40"/> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="40" height="40"/> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="40" height="40"/> 
-<img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" alt="Docker" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="40" height="40"/>
-![image](https://github.com/user-attachments/assets/2b8c5405-0155-4539-a230-68e22ccc3037)
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL" width="40" height="40"/>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-
-c
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,c++, docker, git, javascript, ruby, python" />
+  </a>
+</p>
 
 
 
